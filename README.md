@@ -1,2 +1,2 @@
-# beduAgileMyAPIAccounts
-Sesion 07 postwork myApi accounts
+# myAPI-accounts
+myAPI is the proyect used in bedu DevOps Fundamentals course
